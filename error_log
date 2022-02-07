@@ -1,0 +1,149 @@
+[09-Nov-2020 06:59:56 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 137
+[09-Nov-2020 06:59:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apricotk/public_html/tenancy/ViewLeases.php on line 141
+[09-Nov-2020 07:00:05 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 137
+[09-Nov-2020 07:00:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apricotk/public_html/tenancy/ViewLeases.php on line 141
+[09-Nov-2020 07:01:49 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 137
+[09-Nov-2020 07:01:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apricotk/public_html/tenancy/ViewLeases.php on line 141
+[09-Nov-2020 07:02:03 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 137
+[09-Nov-2020 07:02:03 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apricotk/public_html/tenancy/ViewLeases.php on line 141
+[09-Nov-2020 07:06:03 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/Viewtest.php on line 121
+[09-Nov-2020 07:06:17 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/Viewtest.php on line 121
+[08-Dec-2020 08:51:51 UTC] PHP Notice:  Undefined variable: row in /home/apricotk/public_html/tenancy/Login.php on line 12
+[08-Dec-2020 08:51:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/apricotk/public_html/tenancy/Login.php on line 12
+[08-Dec-2020 08:59:04 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 08:59:04 UTC] PHP Notice:  Undefined index: Fname in /home/apricotk/public_html/tenancy/ViewLeases.php on line 134
+[08-Dec-2020 08:59:04 UTC] PHP Notice:  Undefined index: Fname in /home/apricotk/public_html/tenancy/ViewLeases.php on line 134
+[08-Dec-2020 08:59:04 UTC] PHP Notice:  Undefined index: Fname in /home/apricotk/public_html/tenancy/ViewLeases.php on line 134
+[08-Dec-2020 08:59:04 UTC] PHP Notice:  Undefined index: Fname in /home/apricotk/public_html/tenancy/ViewLeases.php on line 134
+[08-Dec-2020 08:59:04 UTC] PHP Notice:  Undefined index: Fname in /home/apricotk/public_html/tenancy/ViewLeases.php on line 134
+[08-Dec-2020 08:59:04 UTC] PHP Notice:  Undefined index: Fname in /home/apricotk/public_html/tenancy/ViewLeases.php on line 134
+[08-Dec-2020 08:59:48 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 08:59:57 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:00:01 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:00:06 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:00:11 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:00:14 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:00:21 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:01:24 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:01:48 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:02:01 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:05:47 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 09:05:51 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:15:20 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:15:30 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:15:43 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:16:23 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:16:30 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:16:39 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:16:55 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:17:38 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:18:00 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:18:47 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[08-Dec-2020 10:30:10 UTC] PHP Notice:  Undefined index: tenant in /home/apricotk/public_html/tenancy/ViewLeases.php on line 113
+[22-Dec-2020 08:37:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[22-Dec-2020 08:41:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[22-Dec-2020 08:43:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[22-Dec-2020 23:50:35 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[22-Dec-2020 23:58:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[23-Dec-2020 00:02:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[23-Dec-2020 00:09:26 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[23-Dec-2020 00:21:54 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[23-Dec-2020 00:26:38 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[23-Dec-2020 00:26:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/apricotk/tenancy.apricot.ke/db.php:3) in /home2/apricotk/tenancy.apricot.ke/Login.php on line 3
+[23-Dec-2020 00:26:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/apricotk/tenancy.apricot.ke/db.php:3) in /home2/apricotk/tenancy.apricot.ke/Login.php on line 3
+[23-Dec-2020 00:33:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home2/apricotk/tenancy.apricot.ke/db.php on line 3
+[10-Mar-2021 03:47:36 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[10-Mar-2021 03:48:11 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[10-Mar-2021 03:49:08 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[10-Mar-2021 03:49:23 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[10-Mar-2021 03:51:31 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[16-Mar-2021 01:44:52 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home2/apricotk/tenancy.apricot.ke/AddNewEmployee.php on line 11
+[16-Mar-2021 01:59:35 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[16-Mar-2021 02:01:42 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[18-Mar-2021 06:55:59 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[18-Mar-2021 06:56:17 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[19-Mar-2021 01:21:57 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[19-Mar-2021 01:22:09 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[20-Mar-2021 01:28:55 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[20-Mar-2021 01:29:04 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[20-Mar-2021 01:30:09 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[20-Mar-2021 01:31:54 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[21-Mar-2021 04:01:16 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[21-Mar-2021 09:06:59 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[21-Mar-2021 11:13:18 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/apricotk/tenancy.apricot.ke/RthreeExport.php on line 8
+[21-Mar-2021 11:13:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/apricotk/tenancy.apricot.ke/RthreeExport.php on line 9
+[21-Mar-2021 11:14:07 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home2/apricotk/tenancy.apricot.ke/RthreeExport.php on line 8
+[21-Mar-2021 11:14:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/apricotk/tenancy.apricot.ke/RthreeExport.php on line 9
+[21-Mar-2021 11:18:15 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home2/apricotk/tenancy.apricot.ke/RthreeExport.php on line 18
+[21-Mar-2021 11:18:15 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home2/apricotk/tenancy.apricot.ke/RthreeExport.php on line 19
+[21-Mar-2021 11:19:21 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home2/apricotk/tenancy.apricot.ke/RthreeExport.php on line 18
+[22-Mar-2021 08:01:03 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[22-Mar-2021 08:01:23 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[22-Mar-2021 08:01:37 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[22-Mar-2021 08:01:57 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[22-Mar-2021 08:02:08 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[22-Mar-2021 08:02:32 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[22-Mar-2021 08:02:44 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[22-Mar-2021 08:03:26 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[24-Mar-2021 04:19:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/apricotk/tenancy.apricot.ke/Dashboard.php on line 294
+[24-Mar-2021 06:57:52 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[24-Mar-2021 06:58:16 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[15-Apr-2021 08:25:12 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[15-Apr-2021 08:25:23 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[20-Apr-2021 03:13:56 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home2/apricotk/tenancy.apricot.ke/Login.php on line 12
+[05-May-2021 03:44:38 America/Chicago] PHP Warning:  require(/home/cpanelusername/PHPMailerTest/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/EmailSend.php on line 5
+[05-May-2021 03:44:38 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/cpanelusername/PHPMailerTest/PHPMailer/src/Exception.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/EmailSend.php on line 5
+[05-May-2021 03:46:11 America/Chicago] PHP Warning:  require(/home/cpanelusername/PHPMailerTest/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/Emailsend.php on line 5
+[05-May-2021 03:46:11 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/cpanelusername/PHPMailerTest/PHPMailer/src/Exception.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/Emailsend.php on line 5
+[05-May-2021 03:54:38 America/Chicago] PHP Warning:  require(PHPMailerTest/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 03:54:38 America/Chicago] PHP Warning:  require(PHPMailerTest/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 03:54:38 America/Chicago] PHP Fatal error:  require(): Failed opening required 'PHPMailerTest/PHPMailer/src/Exception.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 03:56:42 America/Chicago] PHP Warning:  require(home2/apricotk/tenancy.apricot.ke/PHPMailerTest/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 03:56:42 America/Chicago] PHP Warning:  require(home2/apricotk/tenancy.apricot.ke/PHPMailerTest/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 03:56:42 America/Chicago] PHP Fatal error:  require(): Failed opening required 'home2/apricotk/tenancy.apricot.ke/PHPMailerTest/PHPMailer/src/Exception.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 07:35:08 America/Chicago] PHP Warning:  require(PHPMailerTest/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 07:35:08 America/Chicago] PHP Warning:  require(PHPMailerTest/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 07:35:08 America/Chicago] PHP Fatal error:  require(): Failed opening required 'PHPMailerTest/PHPMailer/src/Exception.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 07:40:53 America/Chicago] PHP Warning:  require(/home2/apricotk/tenancy.apricot.ke/PHPMailerTest/PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 6
+[05-May-2021 07:40:53 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/apricotk/tenancy.apricot.ke/PHPMailerTest/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 6
+[05-May-2021 07:43:43 America/Chicago] PHP Warning:  require(/home2/apricotk/tenancy.apricot.ke/home2/apricotk/tenancy.apricot.ke/PHPMailerTest/PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 6
+[05-May-2021 07:43:43 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/apricotk/tenancy.apricot.ke/home2/apricotk/tenancy.apricot.ke/PHPMailerTest/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 6
+[05-May-2021 07:44:39 America/Chicago] PHP Warning:  require(/home2/apricotk/tenancy.apricot.ke/PHPMailerTest/PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 6
+[05-May-2021 07:44:39 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/apricotk/tenancy.apricot.ke/PHPMailerTest/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 6
+[05-May-2021 07:45:35 America/Chicago] PHP Fatal error:  Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 14
+[05-May-2021 07:46:00 America/Chicago] PHP Warning:  require(dbphp): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 8
+[05-May-2021 07:46:00 America/Chicago] PHP Warning:  require(dbphp): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 8
+[05-May-2021 07:46:00 America/Chicago] PHP Fatal error:  require(): Failed opening required 'dbphp' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 8
+[05-May-2021 07:46:35 America/Chicago] PHP Fatal error:  Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 16
+[05-May-2021 07:51:26 America/Chicago] PHP Warning:  require(PHPMailerTest/PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 07:51:26 America/Chicago] PHP Warning:  require(PHPMailerTest/PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 07:51:26 America/Chicago] PHP Fatal error:  require(): Failed opening required 'PHPMailerTest/PHPMailer-master/src/Exception.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 07:52:00 America/Chicago] PHP Warning:  require(/PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 07:52:00 America/Chicago] PHP Fatal error:  require(): Failed opening required '/PHPMailer-master/src/Exception.php' (include_path='.:/opt/php54/lib/php') in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 5
+[05-May-2021 07:53:18 America/Chicago] PHP Fatal error:  Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home2/apricotk/tenancy.apricot.ke/emailsend.php on line 16
+[05-May-2021 07:54:10 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home2/apricotk/tenancy.apricot.ke/PHPMailer-master/src/PHPMailer.php on line 1687
+[05-May-2021 07:57:38 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home2/apricotk/tenancy.apricot.ke/PHPMailer-master/src/PHPMailer.php on line 1687
+[05-May-2021 07:59:57 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home2/apricotk/tenancy.apricot.ke/PHPMailer-master/src/PHPMailer.php on line 1687
+[05-May-2021 08:00:51 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home2/apricotk/tenancy.apricot.ke/PHPMailer-master/src/PHPMailer.php on line 1687
+[25-May-2021 08:28:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/apricotk/tenancy.apricot.ke/UpdateLease.php on line 290
+[28-May-2021 04:38:26 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home2/apricotk/tenancy.apricot.ke/AddNewEmployee.php on line 11
+[28-May-2021 04:41:56 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home2/apricotk/tenancy.apricot.ke/AddNewEmployee.php on line 11
+[28-May-2021 05:05:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::run_query() in /home2/apricotk/tenancy.apricot.ke/Login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/apricotk/tenancy.apricot.ke/Login.php on line 10
+[28-May-2021 05:06:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::run_query() in /home2/apricotk/tenancy.apricot.ke/Login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/apricotk/tenancy.apricot.ke/Login.php on line 10
+[28-May-2021 05:16:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::run_query() in /home2/apricotk/tenancy.apricot.ke/Login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/apricotk/tenancy.apricot.ke/Login.php on line 10
+[28-May-2021 05:17:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::run_query() in /home2/apricotk/tenancy.apricot.ke/Login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/apricotk/tenancy.apricot.ke/Login.php on line 10
+[09-Jun-2021 02:14:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/apricotk/tenancy.apricot.ke/UpdateLease.php on line 188
+[09-Jun-2021 02:14:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/apricotk/tenancy.apricot.ke/UpdateLease.php on line 188
+[09-Jun-2021 02:14:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/apricotk/tenancy.apricot.ke/UpdateLease.php on line 188
